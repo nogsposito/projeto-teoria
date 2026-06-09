@@ -1,0 +1,7 @@
+Algoritmo,Cenario,Tamanho_N,Tempo_Medio_ms,Desvio_Padrao_ms
+Backtracking,Melhor Caso,10,0.0008,0.0007
+Backtracking,Caso Medio,10,0.0282,0.0031
+Backtracking,Pior Caso,10,0.1239,0.0128
+DP,Melhor Caso,10,0.0881,0.0174
+DP,Caso Medio,10,0.1787,0.0079
+DP,Pior Caso,10,0.4304,0.0276
