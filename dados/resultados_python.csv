@@ -1,7 +1,19 @@
 Algoritmo,Cenario,Tamanho_N,Tempo_Medio_ms,Desvio_Padrao_ms
-Backtracking,Melhor Caso,10,0.0008,0.0007
-Backtracking,Caso Medio,10,0.0282,0.0031
-Backtracking,Pior Caso,10,0.1239,0.0128
-DP,Melhor Caso,10,0.0881,0.0174
-DP,Caso Medio,10,0.1787,0.0079
-DP,Pior Caso,10,0.4304,0.0276
+Backtracking,Melhor Caso,10,0.0012,0.0019
+Backtracking,Caso Medio,10,0.0292,0.0078
+Backtracking,Pior Caso,10,0.1258,0.0082
+Backtracking,Melhor Caso,15,0.0009,0.0002
+Backtracking,Caso Medio,15,0.0195,0.0047
+Backtracking,Pior Caso,15,3.7189,0.0960
+Backtracking,Melhor Caso,20,0.0012,0.0002
+Backtracking,Caso Medio,20,0.3071,0.0095
+Backtracking,Pior Caso,20,126.4964,2.3409
+DP,Melhor Caso,50,0.3546,0.0497
+DP,Caso Medio,50,2.0894,0.1108
+DP,Pior Caso,50,7.4032,0.2732
+DP,Melhor Caso,100,0.6742,0.0600
+DP,Caso Medio,100,8.4638,0.3734
+DP,Pior Caso,100,32.4556,1.6224
+DP,Melhor Caso,200,1.2989,0.0619
+DP,Caso Medio,200,39.6433,1.0497
+DP,Pior Caso,200,141.6661,3.9019
